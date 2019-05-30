@@ -13,6 +13,7 @@ def create_project_hash
   # project.css("div.project-thumbnail a img").attribute("src").value
   # project.css("p.bbcard_blurb").text
   # project.css("span.location-name").text
+  # project.css("ul.project-stats li.first.funded strong").text
   # write your code here
 end
 
